@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/NovaDrive/static/css/main.9767a133.css",
-    "main.js": "/NovaDrive/static/js/main.33162ad6.js",
-    "static/js/488.d6ff3946.chunk.js": "/NovaDrive/static/js/488.d6ff3946.chunk.js",
-    "static/media/banner.png": "/NovaDrive/static/media/banner.e8b4dcb05336d1cfe95b.png",
-    "static/media/image2.jpg": "/NovaDrive/static/media/image2.f1abbf6c86333ff8c020.jpg",
-    "static/media/image1.jpg": "/NovaDrive/static/media/image1.5b0711c90367cb8acd75.jpg",
-    "static/media/image3.jpg": "/NovaDrive/static/media/image3.4c5c952b176d6b5aa5e4.jpg",
-    "index.html": "/NovaDrive/index.html",
-    "main.9767a133.css.map": "/NovaDrive/static/css/main.9767a133.css.map",
-    "main.33162ad6.js.map": "/NovaDrive/static/js/main.33162ad6.js.map",
-    "488.d6ff3946.chunk.js.map": "/NovaDrive/static/js/488.d6ff3946.chunk.js.map"
+    "main.css": "/static/css/main.6e935da7.css",
+    "main.js": "/static/js/main.e6b73e6a.js",
+    "static/js/488.d6ff3946.chunk.js": "/static/js/488.d6ff3946.chunk.js",
+    "static/media/banner.png": "/static/media/banner.e8b4dcb05336d1cfe95b.png",
+    "static/media/image2.jpg": "/static/media/image2.f1abbf6c86333ff8c020.jpg",
+    "static/media/image1.jpg": "/static/media/image1.5b0711c90367cb8acd75.jpg",
+    "static/media/image3.jpg": "/static/media/image3.4c5c952b176d6b5aa5e4.jpg",
+    "index.html": "/index.html",
+    "main.6e935da7.css.map": "/static/css/main.6e935da7.css.map",
+    "main.e6b73e6a.js.map": "/static/js/main.e6b73e6a.js.map",
+    "488.d6ff3946.chunk.js.map": "/static/js/488.d6ff3946.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9767a133.css",
-    "static/js/main.33162ad6.js"
+    "static/css/main.6e935da7.css",
+    "static/js/main.e6b73e6a.js"
   ]
 }
