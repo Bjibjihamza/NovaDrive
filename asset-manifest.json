@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Digital-Skills-project/static/css/main.239cd4d2.css",
+    "main.js": "/Digital-Skills-project/static/js/main.21ed6ba5.js",
+    "static/js/488.d6ff3946.chunk.js": "/Digital-Skills-project/static/js/488.d6ff3946.chunk.js",
+    "static/media/banner.png": "/Digital-Skills-project/static/media/banner.e8b4dcb05336d1cfe95b.png",
+    "static/media/image2.jpg": "/Digital-Skills-project/static/media/image2.f1abbf6c86333ff8c020.jpg",
+    "static/media/image1.jpg": "/Digital-Skills-project/static/media/image1.5b0711c90367cb8acd75.jpg",
+    "static/media/image3.jpg": "/Digital-Skills-project/static/media/image3.4c5c952b176d6b5aa5e4.jpg",
+    "index.html": "/Digital-Skills-project/index.html",
+    "main.239cd4d2.css.map": "/Digital-Skills-project/static/css/main.239cd4d2.css.map",
+    "main.21ed6ba5.js.map": "/Digital-Skills-project/static/js/main.21ed6ba5.js.map",
+    "488.d6ff3946.chunk.js.map": "/Digital-Skills-project/static/js/488.d6ff3946.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.239cd4d2.css",
+    "static/js/main.21ed6ba5.js"
+  ]
+}
